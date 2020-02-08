@@ -12,6 +12,8 @@ Pertama-tama saya akan menjelaskan secara ringkas maksud dari judul repository i
 | 111  | seratus sebelas |
 
 # the highest value that can be displayed in this program?
+
 1 quadrillion = 1.000.000.000.000.000 
+-1 Quadrillion <= input users <= 1 Quadrillion
 
 contact person : bagaspradana0201@gmail.com
